@@ -104,4 +104,4 @@ Aniket Wadia\
 Jay Shukla\
 Khanh Trang Bui\
 Sneha Sunil\
-Susan Mani\
+Susan Mani
