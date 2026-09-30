@@ -99,8 +99,9 @@ would then keep the IMU, alerts and radio.
 ## Team She Sustains
 
 Members (Alphabetical):
-Aniket Wadia
-Jay Shukla
-Khanh Trang Bui 
-Sneha Sunil
-Susan Mani
+
+Aniket Wadia\
+Jay Shukla\
+Khanh Trang Bui\
+Sneha Sunil\
+Susan Mani\
