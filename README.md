@@ -98,10 +98,9 @@ would then keep the IMU, alerts and radio.
 
 ## Team She Sustains
 
-| Member | Role |
-|---|---|
-| Susan Mani | |
-| _add name_ | |
-| _add name_ | |
-| _add name_ | |
-| _add name_ | |
+Members (Alphabetical):
+Aniket Wadia
+Jay Shukla
+Khanh Trang Bui 
+Sneha Sunil
+Susan Mani
